@@ -1,0 +1,6 @@
+prisma.promonode.com {
+    proxy / prisma:4466 {
+        websocket
+    }
+}
+
